@@ -1,0 +1,6 @@
+{
+  "name": "مستشار ذكاء الشركة",
+  "description": "صورة واضحة عن شركتك، مبنية على بياناتها الفعلية — الحقيقة قبل الذكاء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
